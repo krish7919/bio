@@ -55,7 +55,7 @@
           <td>Exciting concept.</td>
         </tr>
         <tr>
-          <td>Open source project.
+          <td>Open source project.</td>
         </tr>
         <tr>
           <td>Visit bigchaindb.com and ipdb.foundation</td>
