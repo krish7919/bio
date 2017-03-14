@@ -37,7 +37,6 @@
 
 
 ### Employment History
-
 <table>
   <tr>
     <td>Member of Technical Staff</td>
@@ -234,3 +233,32 @@ confd, apache kafka, apache cassandra, apache storm, apache spark, AWS EC2.</td>
   </tr>  
 </table>
 
+
+### Education
+<table>
+  <tr>
+    <td>M.C.A</td>
+    <td>VJTI, Mumbai</td>
+    <td>July 2009 – June 2012</td>
+  </tr>
+  <tr>
+    <td colspan="3">Master of Computer Application from Veermata Jijabai Technological Institute, Mumbai. CPI: 9.0/10.</td>
+  </tr>
+</table>
+
+### Projects
+<table>
+  <tr>
+    <td>OS Scheduler Simulator (2010)</td>
+  </tr>
+  <tr>
+    <td>Implemented FCFS, SJF, SRTF, Priority, Round Robin algorithms, their variants, simulated the paging process & calculated statistics like throughput, wait time, etc. at program termination. Implemented in C.</td>
+  </tr>
+</table>
+
+
+### Recognition & Awards
+* Mentoring: Mentored interns at Cisco Systems, and led a team of 3 Software Engineers at Ionos Networks on 2 different projects.
+* Scholarship: Awarded the Sir Ratan Tata Scholarship under the Studies in India Programme, 2010 – 2011.
+* Academic Excellence: Ranked 12th in the University of Mumbai & 20th in the state of Maharashtra at the MAH-MCA-CET 2009 examination with a score of 98.92 percentile.
+* Recognition: 3 ‘Cisco Achievement Program’ Awards for outstanding work within a span of 12 months.
