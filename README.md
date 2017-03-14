@@ -19,7 +19,7 @@
   </tr>
   <tr>
     <td><b>Data Processing</b>: Apache Storm, Apache Spark</td>
-    <td><b>Security</b>: Openvpn, EasyRSA-based PKI</td>
+    <td><b>Security</b>: OpenVPN, EasyRSA-based PKI</td>
   </tr>
   <tr>
     <td><b>Serialization Frameworks</b>: Protobuf, Thrift</td>
