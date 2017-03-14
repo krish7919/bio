@@ -6,7 +6,9 @@
 * Well-informed with emerging and disruptive technologies, leveraging them to improve current systems.
 <table>
   <tr>
-    <td colspan="2"><b>Technologies</b></td>
+    <td colspan="2">
+#### Technologies
+    </td>
   </tr>
   <tr>
     <td colspan="2"><b>Cluster management</b>: &nbsp;&nbsp;&nbsp;Mesos, Aurora, Zookeeper, Docker, Bosun, cAdvisor</td>
