@@ -251,6 +251,8 @@ confd, apache kafka, apache cassandra, apache storm, apache spark, AWS EC2.</td>
   </tr>
   <tr>
     <td>Implemented FCFS, SJF, SRTF, Priority, Round Robin algorithms, their variants, simulated the paging process & calculated statistics like throughput, wait time, etc. at program termination.</td>
+  </tr>
+  <tr>
     <td>Implemented in C.</td>
   </tr>
 </table>
