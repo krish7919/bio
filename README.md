@@ -1,3 +1,10 @@
+## Aspirations
+* Opensource contributor, blogger & polyglot programmer
+* Interest in learning & applying my knowledge - from low level kernel tweaking to cluster level optimizations - to build modern distributed systems
+* Championing the cause of writing tests with code, CI/CD, fast prototyping
+* Strive to write code that is clean, commented/documented, testable, maintainable
+
+
 ## Summary
 * 4+ years in software engineering, with 2+ years in analyzing, designing, implementing, troubleshooting, and operating a big data pipeline, as a cross-data center distributed system using microservices. Possess in-depth knowledge of backend architecture required for modern web-scale applications.
 * Self-motivated, strong communication and collaboration skills, and work with minimal supervision.
@@ -36,6 +43,26 @@
 
 ## Employment History
 <table>
+  <tr>
+    <td>Decentralized Systems Engineer</td>
+    <td>BigchainDB GmbH</td>
+    <td>Dec 2016 onwards</td>
+  </tr>
+  <tr>
+    <td colspan="3">
+      <table>
+        <tr>
+          <td>Exciting concept.</td>
+        </tr>
+        <tr>
+          <td>Open source project.
+        </tr>
+        <tr>
+          <td>Visit bigchaindb.com and ipdb.foundation</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
   <tr>
     <td>Member of Technical Staff</td>
     <td>Ionos Networks/IP Core Solutions</td>
@@ -243,6 +270,7 @@ confd, apache kafka, apache cassandra, apache storm, apache spark, AWS EC2.</td>
     <td colspan="3">Master of Computer Applications from Veermata Jijabai Technological Institute, Mumbai. CPI: 9.0/10.</td>
   </tr>
 </table>
+
 
 ## Projects
 <table>
