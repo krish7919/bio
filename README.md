@@ -1,6 +1,4 @@
-## Krish Iyer
-
-### Summary
+## Summary
 * 4+ years in software engineering, with 2+ years in analyzing, designing, implementing, troubleshooting, and operating a big data pipeline, as a cross-data center distributed system using microservices. Possess in-depth knowledge of backend architecture required for modern web-scale applications.
 * Self-motivated, strong communication and collaboration skills, and work with minimal supervision.
 * Repeatedly recognized as fast learner and executor, meeting critical deadlines by managing technical debt effectively.
@@ -36,7 +34,7 @@
 </table>
 
 
-### Employment History
+## Employment History
 <table>
   <tr>
     <td>Member of Technical Staff</td>
@@ -234,7 +232,7 @@ confd, apache kafka, apache cassandra, apache storm, apache spark, AWS EC2.</td>
 </table>
 
 
-### Education
+## Education
 <table>
   <tr>
     <td>M.C.A</td>
@@ -246,7 +244,7 @@ confd, apache kafka, apache cassandra, apache storm, apache spark, AWS EC2.</td>
   </tr>
 </table>
 
-### Projects
+## Projects
 <table>
   <tr>
     <td>OS Scheduler Simulator (2010)</td>
@@ -257,7 +255,7 @@ confd, apache kafka, apache cassandra, apache storm, apache spark, AWS EC2.</td>
 </table>
 
 
-### Recognition & Awards
+## Recognition & Awards
 * Mentoring: Mentored interns at Cisco Systems, and led a team of 3 Software Engineers at Ionos Networks on 2 different projects.
 * Scholarship: Awarded the Sir Ratan Tata Scholarship under the Studies in India Programme, 2010 – 2011.
 * Academic Excellence: Ranked 12th in the University of Mumbai & 20th in the state of Maharashtra at the MAH-MCA-CET 2009 examination with a score of 98.92 percentile.
