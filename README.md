@@ -58,7 +58,7 @@
           <td>Open source project.</td>
         </tr>
         <tr>
-          <td>Visit <a href="bigchaindb.com">bigchaindb.com</a> and <a href="ipdb.foundation">ipdb.foundation</a></td>
+          <td>Visit <a href="http://bigchaindb.com">bigchaindb.com</a> and <a href="http://ipdb.foundation">ipdb.foundation</a></td>
         </tr>
       </table>
     </td>
