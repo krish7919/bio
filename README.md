@@ -92,7 +92,7 @@ winner in real time.</td>
         </tr>
       </table>
     </td>
-    <td>
+    <td colspan="3">
       <table>
         <tr>
           <td><b>Custom Communication Protocol for a Large-Scale Distributed System</b></td>
@@ -109,7 +109,7 @@ winner in real time.</td>
         </tr>
       </table>
     </td>
-    <td>
+    <td colspan="3">
       <table>
         <tr>
           <td><b>OpenDaylight Kafka Southbound Plugin</b></td>
@@ -122,7 +122,7 @@ winner in real time.</td>
         </tr>
       </table>
     </td>
-    <td>
+    <td colspan="3">
       <table>
         <tr>
           <td><b>OpenDaylight Discovery Plugin</b></td>
@@ -135,7 +135,7 @@ winner in real time.</td>
         </tr>
       </table>
     </td>
-    <td>
+    <td colspan="3">
       <table>
         <tr>
           <td><b>Stream Analytics</b></td>
@@ -151,7 +151,7 @@ winner in real time.</td>
         </tr>
       </table>
     </td>
-    <td>
+    <td colspan="3">
       <table>
         <tr>
           <td><b>Batch Analytics</b></td>
@@ -164,7 +164,7 @@ winner in real time.</td>
         </tr>
       </table>
     </td>
-    <td>
+    <td colspan="3">
       <table>
         <tr>
           <td><b>IoT Sensor Network</b></td>
@@ -178,7 +178,7 @@ winner in real time.</td>
         </tr>
       </table>
     </td>
-    <td>
+    <td colspan="3">
       <table>
         <tr>
           <td><b>Custom software upgrade workflow</b></td>
@@ -191,7 +191,7 @@ winner in real time.</td>
         </tr>
       </table>
     </td>
-    <td>
+    <td colspan="3">
       <table>
         <tr>
           <td><b>Docker Volume Plugin for AWS EFS</b></td>
