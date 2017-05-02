@@ -90,6 +90,10 @@ winner in real time.</td>
         <tr>
           <td>Implemented in Golang.</td>
         </tr>
+      </table>
+    </td>
+    <td>
+      <table>
         <tr>
           <td><b>Custom Communication Protocol for a Large-Scale Distributed System</b></td>
         </tr>
@@ -103,6 +107,10 @@ winner in real time.</td>
         <tr>
           <td>Implemented in C, Golang, Java, Scala, Python.</td>
         </tr>
+      </table>
+    </td>
+    <td>
+      <table>
         <tr>
           <td><b>OpenDaylight Kafka Southbound Plugin</b></td>
         </tr>
@@ -112,6 +120,10 @@ winner in real time.</td>
         <tr>
           <td>Implemented in Java.</td>
         </tr>
+      </table>
+    </td>
+    <td>
+      <table>
         <tr>
           <td><b>OpenDaylight Discovery Plugin</b></td>
         </tr>
@@ -121,6 +133,10 @@ winner in real time.</td>
         <tr>
           <td>Implemented in Java.</td>
         </tr>
+      </table>
+    </td>
+    <td>
+      <table>
         <tr>
           <td><b>Stream Analytics</b></td>
         </tr>
@@ -133,66 +149,59 @@ winner in real time.</td>
         <tr>
           <td>Implemented the Storm topology in Java.</td>
         </tr>
-
-Batch Analytics
-● Developed batch analytics jobs using Apache Spark to perform hourly trend analysis on dataset stored in
-Apache Cassandra to gain insight about network characteristics between various endpoints over different
-types of links.
-● Implemented in Scala, Python and Golang
-
-IoT Sensor Network
-● Part of the team that built an IoT sensor network for data gathering from scratch.
-● Involved with capture and analysis of wireless packets using tools like airodump­ng, tcpdump, wireshark,
-flashing the sensor devices and configuring long running services on the device.
-● Implemented in Python.
-
-
-Custom software upgrade workflow
-● Designed and implemented an update mechanism to check for and download new software packages on
-low­speed, high­latency network connection, with features like download resumption from point of failure,
-rollback, caching, and retry protocols.
-● Implemented in Python.
-
-
-Docker Volume Plugin for AWS EFS
-● Designed and implemented a customized docker volume plugin using the plugin support in docker for
-persisting container data across a cluster, which ensures that if an application dies/quits and is rescheduled
-elsewhere in the cluster, a containerized service can restore state before proceeding further.
-● Implemented in Golang.
-
-Cluster Management for Big Data Pipeline
-● Architected & implemented an auto­scaling, cluster management solution from scratch, helping engineers
-focus on business logic rather than scale issues, with monitoring giving insight into entire cluster state.
-● Tech stack: CoreOS, Ubuntu, etcd, flannel, docker, Mesos, Aurora, Bosun, cAdvisor, HAProxy, confd, Kafka,
-Cassandra, Storm, Spark, AWS EC2.
-● Implemented in Golang, Bash, Python.
-
-Secure Tunnel Overlay Network
-● Developed a secure network connectivity between various sub­systems/micro­services using OpenVPN.
-● Designed and developed an API­driven certificate authority service for dynamic certificate signing request
-authentication, certificate generation and distribution.
-● Implemented in Python, Golang, C and Bash
-
-Centralized logging for a multi data center distributed system
-● Eased debugging and log analysis by implementing centralized logging using rsyslog on ubuntu servers, along
-with logrotate policies for archiving historical logs.
-● Implemented in Java (logback framework), Python and Bash.
-
-
-
-        
+      </table>
+    </td>
+    <td>
+      <table>
+        <tr>
+          <td><b>Batch Analytics</b></td>
+        </tr>
+        <tr>
+          <td>Developed batch analytics jobs using Apache Spark to perform hourly trend analysis on dataset stored in Apache Cassandra to gain insight about network characteristics between various endpoints over different types of links.</td>
+        </tr>
+        <tr>
+          <td>Implemented in Scala, Python and Golang</td>
+        </tr>
+      </table>
+    </td>
+    <td>
+      <table>
+        <tr>
+          <td><b>IoT Sensor Network</b></td>
+        </tr>
+        <tr>
+          <td>Part of the team that built an IoT sensor network for data gathering from scratch.</td>
+          <td>Involved with capture and analysis of wireless packets using tools like airodump-ng, tcpdump, wireshark, flashing the sensor devices and configuring long running services on the device.</td>
+        </tr>
+        <tr>
+          <td>Implemented in Python.</td>
+        </tr>
+      </table>
+    </td>
+    <td>
+      <table>
+        <tr>
+          <td><b>Custom software upgrade workflow</b></td>
+        </tr>
+        <tr>
+          <td>Designed and implemented an update mechanism to check for and download new software packages on low-speed, high-latency network connection, with features like download resumption from point of failure, rollback, caching, and retry protocols.</td>
+        </tr>
+        <tr>
+          <td>Implemented in Python.</td>
+        </tr>
+      </table>
+    </td>
+    <td>
+      <table>
         <tr>
           <td><b>Docker Volume Plugin for AWS EFS</b></td>
-        </tr>
+        <tr>
         <tr>
           <td>Designed and implemented a customized docker volume plugin using the plugin support in docker for persisting container data across a cluster, which ensures that if an application dies/quits and is rescheduled elsewhere in the cluster, a containerized service can restore state before proceeding further.
           </td>
         </tr>
         <tr>
-          <td>AWS EFS backend can be swapped out and replaced with other storage technologies, if needed.</td>
-        </tr>
-        <tr>
-          <td>Implemented in golang.</td>
+          <td>Implemented in Golang.</td>
         </tr>
       </table>
     </td>
@@ -204,46 +213,15 @@ with logrotate policies for archiving historical logs.
         <td><b>Cluster Management for Big Data Pipeline</b></td>
         </tr>
         <tr>
-          <td>Architected & implemented an auto-scaling, cluster management solution from scratch, helping engineers
+          <td>Architected &amp; implemented an auto-scaling, cluster management solution from scratch, helping engineers
 focus on business logic rather than scale issues, with monitoring giving insight into entire cluster state.</td>
         </tr>
         <tr>
-          <td>Tech stack: coreOS, ubuntu, etcd, flannel, docker, apache mesos, apache aurora, bosun, cadvisor, haproxy,
-confd, apache kafka, apache cassandra, apache storm, apache spark, AWS EC2.</td>
+          <td>Tech stack: CoreOS, Ubuntu, etcd, flannel, docker, Mesos, Aurora, Bosun, cAdvisor, HAProxy, confd, Kafka,
+Cassandra, Storm, Spark, EC2.</td>
         </tr>
         <tr>
-          <td>Implemented in golang, bash, python.</td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="3">
-      <table>
-        <tr>
-        <td><b>Stream Analytics</b></td>
-        </tr>
-          <td>Configured apache kafka to decouple producers and consumers of data for easier service management, fault-tolerance, real-time data processing, and signaling between various microservices.</td>
-        <tr>
-          <td>Leveraged apache storm for immediate processing and dispatch of data to appropriate consumer services, and to parallelize multiple mutually exclusive operations, optimizing the data processing pipeline.</td>
-        </tr>
-        <tr>
-          <td>Implemented kafka producers and consumers in java, scala and golang.</td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="3">
-      <table>
-        <tr>
-        <td><b>Batch Analytics</b></td>
-        </tr>
-        <tr>
-          <td>Executed batch analytics jobs using apache spark with apache mesos to perform hourly trend analysis on dataset stored in apache cassandra, to gain insight about network characteristics between various endpoints over different types of links.</td>
-        </tr>
-        <tr>
-          <td>Implemented in scala, python and golang</td>
+          <td>Implemented in Golang, Bash, Python.</td>
         </tr>
       </table>
     </td>
@@ -255,10 +233,14 @@ confd, apache kafka, apache cassandra, apache storm, apache spark, AWS EC2.</td>
         <td><b>Secure Tunnel Overlay Network</b></td>
         </tr>
         <tr>
-          <td>Developed a secure network connectivity between various sub-systems/micro-services using openvpn, along with an API-driven certificate authority service for dynamic certificate request authentication, generation and distribution.</td>
+          <td>Developed a secure network connectivity between various sub-systems/micro-services using OpenVPN.</td>
         </tr>
         <tr>
-          <td>Implemented in python, golang, c and bash.</td>
+          <td>Designed and developed an API-driven certificate authority service for dynamic certificate signing request
+authentication, certificate generation and distribution.</td>
+        </tr>
+        <tr>
+          <td>Implemented in Python, Golang, C and Bash.</td>
         </tr>
       </table>
     </td>
@@ -267,43 +249,13 @@ confd, apache kafka, apache cassandra, apache storm, apache spark, AWS EC2.</td>
     <td colspan="3">
       <table>
         <tr>
-        <td><b>Centralized logging for a multi data center distributed system</b></td>
+        <td><b>Centralized Logging for a Multi-Datacenter Distributed System</b></td>
         </tr>
         <tr>
           <td>Eased debugging and log analysis by implementing centralized logging using rsyslog on ubuntu servers, along with logrotate policies for archiving historical logs.</td>
         </tr>
         <tr>
-          <td>Implemented in bash, java (logback framework), python.</td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="3">
-     <table>
-       <tr>
-       <td><b>Custom software upgrade workflow</b></td>
-       </tr>
-       <tr>
-         <td>Designed and implemented an update mechanism to check for and download new software packages on low-speed, high-latency network connection, with features like download resumption from point of failure, rollback, caching, and retry mechanisms.</td>
-       </tr>
-       <tr>
-         <td>Implemented in python.</td>
-       </tr>
-     </table>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="3">
-      <table>
-        <tr>
-        <td><b>Opendaylight modules</b></td>
-        </tr>
-        <tr>
-          <td>Implemented discovery module, kafka module, and a custom messaging module for the opendaylight SDN controller, which is built as per OSGi specification.</td>
-        </tr>
-        <tr>
-          <td>Implemented in java.</td>
+          <td>Implemented in Java, Python and Bash.</td>
         </tr>
       </table>
     </td>
@@ -388,7 +340,7 @@ confd, apache kafka, apache cassandra, apache storm, apache spark, AWS EC2.</td>
   <td><b>OS Scheduler Simulator (2010)</b></td>
   </tr>
   <tr>
-    <td>Implemented FCFS, SJF, SRTF, Priority, Round Robin algorithms, their variants, simulated the paging process & calculated statistics like throughput, wait time, etc. at program termination.</td>
+    <td>Implemented FCFS, SJF, SRTF, Priority, Round Robin algorithms, their variants, simulated the paging process &amp; calculated statistics like throughput, wait time, etc. at program termination.</td>
   </tr>
   <tr>
     <td>Implemented in C.</td>
@@ -397,7 +349,6 @@ confd, apache kafka, apache cassandra, apache storm, apache spark, AWS EC2.</td>
 
 
 ## Recognition & Awards
-* Mentoring: Mentored interns at Cisco Systems, and led a team of 3 Software Engineers at Ionos Networks on 2 different projects.
-* Scholarship: Awarded the Sir Ratan Tata Scholarship under the Studies in India Programme, 2010 – 2011.
-* Academic Excellence: Ranked 12th in the University of Mumbai & 20th in the state of Maharashtra at the MAH-MCA-CET 2009 examination with a score of 98.92 percentile.
-* Recognition: 3 ‘<u>Cisco Achievement Program<u>’ Awards for outstanding work within a span of 12 months.
+* Mentoring: Mentored interns at Cisco Systems, and led a team of 3 Software Engineers at IP Core Solutions/Ionos Networks on 2 different projects.
+* Recognition: 3 'Cisco Achievement Program' Awards for outstanding work within a span of 12 months.
+* Academic Excellence: Ranked 12th in the University of Mumbai &amp; 20th in the state of Maharashtra at the MAH-MCA-CET 2009 examination with a score of 98.92 percentile.
