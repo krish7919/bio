@@ -50,6 +50,9 @@
   <tr>
     <td colspan="3">
       <table>
+      <tr>
+          <td><b>Kubernetes Cluster Setup</b></td>
+        </tr>
         <tr>
           <td>Primary engineer responsible for ‘productionising’ the BigchainDB software.</td>
         </tr>
