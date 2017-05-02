@@ -218,8 +218,7 @@ winner in real time.</td>
           <td><b>Docker Volume Plugin for AWS EFS</b></td>
         <tr>
         <tr>
-          <td>Designed and implemented a customized docker volume plugin using the plugin support in docker for persisting container data across a cluster, which ensures that if an application dies/quits and is rescheduled elsewhere in the cluster, a containerized service can restore state before proceeding further.
-          </td>
+          <td>Designed and implemented a customized docker volume plugin using the plugin support in docker for persisting container data across a cluster, which ensures that if an application dies/quits and is rescheduled elsewhere in the cluster, a containerized service can restore state before proceeding further.</td>
         </tr>
         <tr>
           <td>Implemented in Golang.</td>
@@ -284,7 +283,7 @@ authentication, certificate generation and distribution.</td>
   <tr>
     <td>Software Engineer</td>
     <td> Cisco Systems</td>
-    <td> July 2012 â€“ April 2014</td>  
+    <td> July 2012 - April 2014</td>  
   </tr>
   <tr>
     <td colspan="3">
@@ -319,7 +318,7 @@ authentication, certificate generation and distribution.</td>
   <tr>
     <td>Software Engineer, Intern</td>
     <td>Cisco Systems</td>
-    <td>Jan 2012 â€“ Jun 2012</td>
+    <td>Jan 2012 - Jun 2012</td>
   </tr>
   <tr>
     <td colspan="3">
@@ -346,7 +345,7 @@ authentication, certificate generation and distribution.</td>
   <tr>
     <td>M.C.A</td>
     <td>VJTI, Mumbai</td>
-    <td>July 2009 â€“ June 2012</td>
+    <td>July 2009 - June 2012</td>
   </tr>
   <tr>
     <td colspan="3">
