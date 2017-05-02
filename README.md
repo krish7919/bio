@@ -172,7 +172,7 @@ winner in real time.</td>
           <td>Developed batch analytics jobs using Apache Spark to perform hourly trend analysis on dataset stored in Apache Cassandra to gain insight about network characteristics between various endpoints over different types of links.</td>
         </tr>
         <tr>
-          <td>Implemented in Scala, Python and Golang</td>
+          <td>Implemented in Scala, Python and Golang.</td>
         </tr>
       </table>
     </td>
@@ -199,7 +199,7 @@ winner in real time.</td>
     <td colspan="3">
       <table>
         <tr>
-          <td><b>Custom software upgrade workflow</b></td>
+          <td><b>Custom Software Upgrade Module</b></td>
         </tr>
         <tr>
           <td>Designed and implemented an update mechanism to check for and download new software packages on low-speed, high-latency network connection, with features like download resumption from point of failure, rollback, caching, and retry protocols.</td>
@@ -324,7 +324,7 @@ authentication, certificate generation and distribution.</td>
     <td colspan="3">
       <table>
         <tr>
-        <td><b>Network Based Application Recognition Signature Analysis Tool Proof of Concept</b></td>
+        <td><b>Network Based Application Recognition - Signature Analysis Tool Proof of Concept</b></td>
         </tr>
         <tr>
           <td>Part of a team that developed the for NBAR Signature Analysis Tool, which provides a web interface for rapid prototyping of a custom application signature, and testing it immediately on a set of packet capture files.</td>
@@ -340,7 +340,6 @@ authentication, certificate generation and distribution.</td>
   </tr>  
 </table>
 
-
 ## Education
 <table>
   <tr>
@@ -349,7 +348,9 @@ authentication, certificate generation and distribution.</td>
     <td>July 2009 – June 2012</td>
   </tr>
   <tr>
-    <td colspan="3">Master of Computer Applications from Veermata Jijabai Technological Institute, Mumbai. CPI: 9.0/10.</td>
+    <td colspan="3">
+      Master of Computer Applications from Veermata Jijabai Technological Institute, Mumbai. CPI: 9.0/10.
+    </td>
   </tr>
 </table>
 
