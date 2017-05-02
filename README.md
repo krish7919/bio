@@ -98,8 +98,7 @@ winner in real time.</td>
           <td><b>Custom Communication Protocol for a Large-Scale Distributed System</b></td>
         </tr>
         <tr>
-          <td>Helped design and develop a custom protocol for communication between a distributed system spread
-          across multiple datacenters.</td>
+          <td>Helped design and develop a custom protocol for communication between a distributed system spread across multiple datacenters.</td>
         </tr>
         <tr>
           <td>Used binary encoding for headers, with message payloads defined using protobuf.</td>
