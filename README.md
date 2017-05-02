@@ -1,3 +1,4 @@
+
 ## Aspirations
 * Opensource contributor, blogger & polyglot programmer
 * Interest in learning & applying my knowledge - from low level kernel tweaking to cluster level optimizations - to build modern distributed systems
@@ -54,7 +55,7 @@
           <td><b>Kubernetes Cluster Setup</b></td>
         </tr>
         <tr>
-          <td>Primary engineer responsible for ‘productionising’ the BigchainDB software.</td>
+          <td>Primary engineer responsible for 'productionising' the BigchainDB software.</td>
         </tr>
         <tr>
           <td>Dockerized various modules, designed and configured the cluster for high availability.</td>
@@ -283,7 +284,7 @@ authentication, certificate generation and distribution.</td>
   <tr>
     <td>Software Engineer</td>
     <td> Cisco Systems</td>
-    <td> July 2012 – April 2014</td>  
+    <td> July 2012 â€“ April 2014</td>  
   </tr>
   <tr>
     <td colspan="3">
@@ -318,7 +319,7 @@ authentication, certificate generation and distribution.</td>
   <tr>
     <td>Software Engineer, Intern</td>
     <td>Cisco Systems</td>
-    <td>Jan 2012 – Jun 2012</td>
+    <td>Jan 2012 â€“ Jun 2012</td>
   </tr>
   <tr>
     <td colspan="3">
@@ -345,7 +346,7 @@ authentication, certificate generation and distribution.</td>
   <tr>
     <td>M.C.A</td>
     <td>VJTI, Mumbai</td>
-    <td>July 2009 – June 2012</td>
+    <td>July 2009 â€“ June 2012</td>
   </tr>
   <tr>
     <td colspan="3">
@@ -373,3 +374,4 @@ authentication, certificate generation and distribution.</td>
 * Mentoring: Mentored interns at Cisco Systems, and led a team of 3 Software Engineers at IP Core Solutions/Ionos Networks on 2 different projects.
 * Recognition: 3 'Cisco Achievement Program' Awards for outstanding work within a span of 12 months.
 * Academic Excellence: Ranked 12th in the University of Mumbai &amp; 20th in the state of Maharashtra at the MAH-MCA-CET 2009 examination with a score of 98.92 percentile.
+
