@@ -92,6 +92,8 @@ winner in real time.</td>
         </tr>
       </table>
     </td>
+  </tr>
+  <tr>
     <td colspan="3">
       <table>
         <tr>
