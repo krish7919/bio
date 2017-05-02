@@ -182,6 +182,8 @@ winner in real time.</td>
         </tr>
         <tr>
           <td>Part of the team that built an IoT sensor network for data gathering from scratch.</td>
+        </tr>
+        <tr>
           <td>Involved with capture and analysis of wireless packets using tools like airodump-ng, tcpdump, wireshark, flashing the sensor devices and configuring long running services on the device.</td>
         </tr>
         <tr>
