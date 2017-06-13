@@ -52,16 +52,19 @@
     <td colspan="3">
       <table>
       <tr>
-          <td><b>Kubernetes Cluster Setup</b></td>
+          <td><b>Kubernetes Cluster on Azure</b></td>
         </tr>
         <tr>
-          <td>Primary engineer responsible for 'productionising' the BigchainDB software.</td>
+          <td>Primary engineer responsible for ‘productionising’ the BigchainDB software.</td>
         </tr>
         <tr>
           <td>Dockerized various modules, designed and configured the cluster for high availability.</td>
         </tr>
         <tr>
           <td>Implemented TLS connectivity and DoS mitigation strategy.</td>
+        </tr>
+        <tr>
+          <td>Lua scripting in Openresty/NGINX for authentication and reporting to 3scale API management portal.</td>
         </tr>
         <tr>
           <td>Visit <a href="http://bigchaindb.com">bigchaindb.com</a> and <a href="http://ipdb.foundation">ipdb.foundation</a></td>
@@ -216,7 +219,7 @@ winner in real time.</td>
       <table>
         <tr>
           <td><b>Docker Volume Plugin for AWS EFS</b></td>
-        <tr>
+        </tr>
         <tr>
           <td>Designed and implemented a customized docker volume plugin using the plugin support in docker for persisting container data across a cluster, which ensures that if an application dies/quits and is rescheduled elsewhere in the cluster, a containerized service can restore state before proceeding further.</td>
         </tr>
@@ -324,7 +327,7 @@ authentication, certificate generation and distribution.</td>
     <td colspan="3">
       <table>
         <tr>
-        <td><b>Network Based Application Recognition - Signature Analysis Tool Proof of Concept</b></td>
+          <td><b>Network Based Application Recognition - Signature Analysis Tool Proof of Concept</b></td>
         </tr>
         <tr>
           <td>Part of a team that developed the for NBAR Signature Analysis Tool, which provides a web interface for rapid prototyping of a custom application signature, and testing it immediately on a set of packet capture files.</td>
@@ -337,7 +340,7 @@ authentication, certificate generation and distribution.</td>
         </tr>
       </table>
     </td>
-  </tr>  
+  </tr>
 </table>
 
 ## Education
