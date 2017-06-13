@@ -9,9 +9,8 @@
 body {
     font-family: Calibri, sans-serif;
 }
-    .my_name {
+    .center_name {
         font-size:24px;
-        font-family:Calibri;
         color:#000000;
         background-color:transparent;
         font-weight:700;
@@ -21,28 +20,89 @@ body {
         font-variant-caps: small-caps;
         font-variant-numeric: normal;
         text-decoration:none;
-        vertical-align:baseline;
+        vertical-align:center;
+        width: 34%;
+        text-align: center;
     }
+    .left_contact {
+        font-size: 13.333333333333332px;
+        color: #000000;
+        background-color: transparent;
+        font-weight: 400;
+        font-style: normal;
+        font-variant: normal;
+        text-decoration: none;
+        vertical-align: baseline;
+        width: 33%;
+        text-align: left;
+    }
+    .right_contact {
+        font-size: 13.333333333333332px;
+        color: #000000;
+        background-color: transparent;
+        font-weight: 400;
+        font-style: normal;
+        font-variant: normal;
+        text-decoration: none;
+        vertical-align: baseline;
+        width: 33%;
+        text-align: right;
+        /*width: 143px;*/
+        /*padding-left: 54px;*/
+    }
+    .section_heading {
+        font-size: 14.666666666666666px;
+        font-family: Calibri;
+        color: #000000;
+        background-color: transparent;
+        font-weight: 700;
+        font-style: normal;
+        font-variant: small-caps;
+        text-decoration: none;
+        vertical-align: baseline;
+    }
+    .bold_topic {
+        font-size: 14.666666666666666px;
+        font-family: Calibri;
+        color: #000000;
+        background-color: transparent;
+        font-weight: 700;
+        font-style: normal;
+        font-variant: normal;
+        text-decoration: none;
+        vertical-align: baseline;
+    }
+
     /* Thanks to https://stackoverflow.com/a/43026935/880963 for A4 page setup*/
     body {
-        background: rgb(204,204,204); 
+        background: rgb(204,204,204);
     }
     page {
         background: white;
         display: block;
-        margin-top: 2.54cm;
-        margin-bottom: 2.54cm;
-        margin-left: 3.17cm;
-        margin-right: 3.17cm;
         box-shadow: 0 0 0.5cm rgba(0,0,0,0.5);
+        padding-top: 0.5cm;
+        padding-left: 0.5cm;
+        padding-right: 0.5cm;
+        padding-bottom: 0.5cm;
+        margin-bottom: 1cm;
+        margin-top: 1cm;
+        margin-right: auto;
+        margin-left: auto;
+        /*
+           padding-top: 2.54cm;
+           padding-bottom: 2.54cm;
+           padding-right: 3.17cm;
+           padding-left: 3.17cm;
+         */
     }
-    page[size="A4"] {  
+    page[size="A4"] { 
         width: 21cm;
-        height: 29.7cm; 
+        height: 29.7cm;
     }
     page[size="A4"][layout="portrait"] {
         width: 29.7cm;
-        height: 21cm;  
+        height: 21cm; 
     }
     @media print {
         body, page {
@@ -53,90 +113,101 @@ body {
         </style>
     </head>
     <body>
-        <page size="A4">
-        <table class="header">
+        <page size="A4" align="center">
+        <table width="100%" cellpadding="0" cellspacing="0" class="intro">
             <tr>
-                <td>
+                <td class="left_contact">
                     Berlin, Germany
                 </td>
-                <td rowspan="3" class="my_name">
+                <td rowspan="3" class="center_name">
                     Krishnan Iyer
                 </td>
-                <td>
-                    linkedin.com/in/krish7919
+                <td class="right_contact">
+                    &nbsp;
                 </td>
             </tr>
             <tr>
-                <td>
+                <td class="left_contact">
                     Cell: +49-151-2486-7283
                 </td>
-                <td>
-                    https://krish7919.github.io
+                <td class="right_contact">
+                    <a href="https://krish7919.github.io">krish7919.github.io</a>
                 </td>
             </tr>
             <tr>
-                <td>
-                    jobs.for.krish7919@gmail.com
+                <td class="left_contact">
+                    <a href="mailto:jobs.for.krish7919@gmail.com">jobs.for.krish7919@gmail.com</a>
+                </td>
+                <td class="right_contact">
+                    <a href="https://linkedin.com/in/krish7919">linkedin.com/in/krish7919</a>
                 </td>
             </tr>
         </table>
-        <table class="summary" align="center">
-            <tr>
-                <th>
+        <table width="100%" cellpadding="0" cellspacing="0" class="summary">
+            <tr class="section_heading">
+                <td colspan="3">
+                    <br/>
                     Summary
-                </th>
+                </td>
             </tr>
             <tr>
-                <td>
+                <td valign="top">&#8226;&nbsp;&nbsp;</td>
+                <td colspan="2">
                     5 years in software engineering, with 2.5+ years in analyzing, designing, implementing, troubleshooting, and operating a big data pipeline, as a cross-data center distributed system using microservices. Possess an in-depth knowledge of backend architecture required for modern web-scale applications.
                 </td>
             </tr>
             <tr>
+                <td valign="top">&#8226;&nbsp;&nbsp;</td>
                 <td>
                     Repeatedly recognized as fast learner and executor, meeting critical deadlines by managing technical debt effectively.
                 </td>
             </tr>
             <tr>
+                <td valign="top">&#8226;&nbsp;&nbsp;</td>
                 <td>
                     Practitioner of agile methodology and test driven development.
                 </td>
             </tr>
             <tr>
+                <td valign="top">&#8226;&nbsp;&nbsp;</td>
                 <td>
                     Well-informed with emerging and disruptive technologies, leveraging them to improve current systems.
                 </td>
             </tr>
         </table>
-        <table class="technologies" align="center">
-            <tr>
-                <th colspan="2">
+        <table width="100%" cellpadding="0" cellspacing="0" class="technologies">
+            <tr class="section_heading">
+                <td colspan="3">
+                    <br/>
                     Technologies
-                </th>
+                </td>
             </tr>
             <tr>
-                <td colspan="2"><b>Cluster management</b>: &nbsp;&nbsp;&nbsp;Kubernetes, Mesos, Aurora, Zookeeper, Docker, Bosun, cAdvisor</td>
+                <td colspan="3">
+                    <span class="bold_topic">&nbsp;&nbsp;&nbsp;&nbsp;Cluster management</span>: &nbsp;&nbsp;&nbsp;Kubernetes, Mesos, Aurora, Zookeeper, Docker, Bosun, cAdvisor</td>
             </tr>
             <tr>
-                <td><b>Messaging Systems</b>: Apache Kafka</td>
-                <td><b>Data stores</b>: Apache Cassandra, etcd</td>
+                <td><span class="bold_topic">&nbsp;&nbsp;&nbsp;&nbsp;Messaging Systems</span>: Apache Kafka</td>
+                <td><span class="bold_topic">&nbsp;&nbsp;&nbsp;&nbsp;Data stores</span>: Apache Cassandra, etcd</td>
             </tr>
             <tr>
-                <td><b>Data Processing</b>: Apache Storm, Apache Spark</td>
-                <td><b>Security</b>: OpenVPN, EasyRSA-based PKI</td>
+                <td><span class="bold_topic">&nbsp;&nbsp;&nbsp;&nbsp;Data Processing</span>: Apache Storm, Apache Spark</td>
+                <td><span class="bold_topic">&nbsp;&nbsp;&nbsp;&nbsp;Security</span>: OpenVPN, EasyRSA-based PKI</td>
             </tr>
             <tr>
-                <td><b>Serialization Frameworks</b>: Protobuf, Thrift</td>
-                <td><b>Networking</b>: Opendaylight, flannel, HAProxy</td>
+                <td><span class="bold_topic">&nbsp;&nbsp;&nbsp;&nbsp;Serialization Frameworks</span>: Protobuf, Thrift</td>
+                <td><span class="bold_topic">&nbsp;&nbsp;&nbsp;&nbsp;Networking</span>: Opendaylight, flannel, HAProxy</td>
             </tr>
             <tr>
-                <td><b>Operating Systems</b>: Linux (Ubuntu, CoreOS)</td>
-                <td><b>Languages</b>: Golang, Java, Scala, Python, Perl, C</td>
+                <td><span class="bold_topic">&nbsp;&nbsp;&nbsp;&nbsp;Operating Systems</span>: Linux (Ubuntu, CoreOS)</td>
+                <td><span class="bold_topic">&nbsp;&nbsp;&nbsp;&nbsp;Languages</span>: Golang, Java, Scala, Python, Perl, C</td>
             </tr>
             <tr>
-                <td><b>Public Cloud Platforms</b>: EC2, GCE, Azure</td>
-                <td><b>Tools</b>: Eclipse, Git, Maven, Travis</td>
+                <td><span class="bold_topic">&nbsp;&nbsp;&nbsp;&nbsp;Public Cloud Platforms</span>: EC2, GCE, Azure</td>
+                <td><span class="bold_topic">&nbsp;&nbsp;&nbsp;&nbsp;Tools</span>: Eclipse, Git, Maven, Travis</td>
             </tr>
         </table>
+        </page> <!-- end of page 1 -->
         <table class="employment_history_part_1" align="center">
             <tr>
                 <th colspan="2">
@@ -173,7 +244,7 @@ body {
             <tr>
                 <td>Member of Technical Staff</td>
                 <td>Ionos Networks/IP Core Solutions</td>
-                <td>May 2014 - Nov 2016</td>  
+                <td>May 2014 - Nov 2016</td> 
             </tr>
             <tr>
                 <td colspan="3">
@@ -265,7 +336,6 @@ body {
                 </td>
             </tr>
         </table>
-        </page> <!-- end of page 1 -->
         <page size="A4">
         <table class="employment_history_part_2" align="center">
             <tr>
@@ -388,7 +458,7 @@ body {
             <tr>
                 <td>Software Engineer</td>
                 <td> Cisco Systems</td>
-                <td> July 2012 - April 2014</td>  
+                <td> July 2012 - April 2014</td> 
             </tr>
             <tr>
                 <td colspan="3">
@@ -442,7 +512,7 @@ body {
                         </tr>
                     </table>
                 </td>
-            </tr>  
+            </tr> 
         </table>
         </page> <!-- end of page 2 -->
         <page size="A4">
